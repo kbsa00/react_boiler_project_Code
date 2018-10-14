@@ -1,2 +1,1 @@
-
 export const ACTION_TYPE = 'INSERT NAME HERE.'
